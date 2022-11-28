@@ -12,7 +12,7 @@ Please dont ping me uselessly.
 ## See my [Main Account](https://github.com/twilighty-abhi) for my projects
 
 
-###Install me in your life: [CLick here] (https://marvelapp.com/prototype/asdf?)
+###Install me in your life: [CLick here](https://marvelapp.com/prototype/asdf?)
 
 
 ## License
